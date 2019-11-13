@@ -10,4 +10,4 @@ class lazy = {
 }
 }  
 # html example
-"<img data-scr="url" src="default-url" class="lazy">"
+"img data-scr="url" src="default-url" class="lazy""
