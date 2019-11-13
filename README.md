@@ -9,3 +9,5 @@ class lazy = {
   filter: blur(10px);
 }
 }  
+# html example
+<img data-scr="url" src="default-url" class="lazy">
